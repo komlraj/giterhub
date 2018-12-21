@@ -1,16 +1,3 @@
-# giterhub #
-</br>
-#### Use this cli for check one Github user information Or two user information ####
-
-## Install ##
-``` $ npm install giterhub ```
-
-
-## Usage ##
-
-``` $ giterhub ```
-
-
 # GiterHub
 GiterHub is simple command. when you install `giterhub` then run this command any where in terminal.<br> 
 It gives github user information. 
@@ -25,4 +12,7 @@ Use this cli for check one gihub-user or two gihub-user information
 
 ### Tech Stack Used
 
+## Usage ##
+<br>
 
+``` $ giterhub ```
