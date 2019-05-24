@@ -7,7 +7,11 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node cli.js"
   },
-  "author": "",
+  "author": {
+    "name": "Koaml Raj",
+    "gmail": "kmlraj131996@gmail.com",
+    "url": "https://github.com/kml1326"
+  },
   "license": "MIT",
   "bin": {
     "giterhub": "./cli.js"
@@ -24,5 +28,9 @@
     "node-cli",
     "git",
     "username"
-  ]
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kml1326/giterhub"
+  }
 }
