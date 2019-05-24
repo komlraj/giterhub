@@ -8,7 +8,7 @@ Use this cli for check one gihub-user or two gihub-user information
 * Go to the directory using `cd node-cli/giterhub`.
 * Run project using `npm start`. <br>
 
--- If you want to try project then directly install using `npm i -g githerhub`.
+-- If you want to try project then directly install using `npm i -g giterhub`.
 
 ### Tech Stack Used
 
